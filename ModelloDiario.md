@@ -1,7 +1,7 @@
 
 
 # iSete | Diario di lavoro - dd.mm.yyyy
-##### N. Anthonippillai, E. Ongaro, R. Scarcella, A. Lupica, S. Ushchapivskyy
+##### Pinco Pallino
 ### Canobbio, [DATE]
 
 ## Lavori svolti
