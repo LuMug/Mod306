@@ -1,6 +1,6 @@
 
 
-# iSete | Diario di lavoro - dd.mm.yyyy
+# PROGETTO | Diario di lavoro - dd.mm.yyyy
 ##### Pinco Pallino
 ### Canobbio, [DATE]
 
