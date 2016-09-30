@@ -12,7 +12,7 @@
 
   - [Analisi e specifica dei requisiti](#analisi-e-specifica-dei-requisiti)
 
-1. [Use case](#use-case)
+  - [Use case](#use-case)
 
   - [Pianificazione](#pianificazione)
 
