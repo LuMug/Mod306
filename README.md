@@ -14,3 +14,11 @@
 - [Impostare ambiente di lavoro](Guide/ImpostareAmbienteLavoro.md)
 
 
+
+#Link utili
+- [MarkDown to PDF Converter](http://www.markdowntopdf.com/)
+- [Create PDF Reports](https://medium.com/@sorenlind/create-pdf-reports-using-r-r-markdown-latex-and-knitr-on-windows-10-952b0c48bfa9#.49ii34y7a)
+
+
+
+
