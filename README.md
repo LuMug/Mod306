@@ -33,7 +33,7 @@
 |Calcolatore resistenza   |Federico, Massimo  |Mussi F.             |               |
 |Gestione libri SAMT      |Jacopo, Nikola     |Sartori M.           |               |
 |Gestione test SAMT       |Pietro, Nicola     |Sartori M.           |               |
-|Gestione ricette e spesa |Nico, Carlo        |Muggiasca L.         |               |
+|Gestione ricette e spesa |Nico, Carlo        |Muggiasca L.         |[iFame](https://github.com/Bogcar/iFame)   |
 
 
 
