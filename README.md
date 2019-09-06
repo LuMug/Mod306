@@ -2,8 +2,7 @@
 
 
 ## Modelli
-- [Documentazione progetto](Modelli/ModelloDocProgettazione.md)
-- [Documentazione implementazione](Modelli/ModelloDocImplementazione.md)
+- [Documentazione](Modelli/DocumentazioneCompleta.md)
 - [Diario](Modelli/ModelloDiario.md)
 
 
