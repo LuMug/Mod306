@@ -28,11 +28,14 @@
     [http]
       proxy = http://nome.cognome:proxypass@proxy:8080
       proxyAuthMethod = basic
+      schannelCheckRevoke = false #Solo se necessario
 
     [https]
       proxy = https://nome.cognome:proxypass@proxy:8080
       proxyAuthMethod = basic
+      schannelCheckRevoke = false #Solo se necessario
       ```
+
 
 1. Installare source Tree da questo sito
     [*https://www.sourcetreeapp.com/*](https://www.sourcetreeapp.com/)
