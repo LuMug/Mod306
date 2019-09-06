@@ -172,18 +172,17 @@
   dovrà possedere.
 
 
-  |ID  |REQ-012                                         |
-  |----|------------------------------------------------|
-  |**Nome**    |Creazione interfaccia |
-  |**Priorità**|1                     |
-  |**Versione**|1.0                   |
-  |**Note**    |Si necessitano i permessi di root / Dipende dal requisito REQ-001 (Creazione DB)|
-  |            |**Sotto requisiti** |
-  |**001**      | Si necessita una maschera di login  |
-  |**002**      | Si dovranno poter immettere nuovi allievi                 |
-  |**003**      | Dovrà essere possibile la ricerca di allievi                   |
 
+
+  |**ID**	|**Nome**			|**Priorità**|**Vers**|**Note**  |
+  |----|------------|--------|----|------|
+  |Req-12|Dovrà esserci una maschera di login|1|1.0|...|
+  |Req-13|Si dovranno poter immettere nuovi allievi|1|1.0|...|
+  |Req-14|Dovrà essere possibile la ricerca di allievi|1|1.0|...|
   
+  
+
+
 
 **Spiegazione elementi tabella dei requisiti:**
 
