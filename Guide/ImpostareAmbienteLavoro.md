@@ -27,9 +27,11 @@
 
     [http]
       proxy = http://nome.cognome:proxypass@proxy:8080
+      proxyAuthMethod = basic
 
     [https]
       proxy = https://nome.cognome:proxypass@proxy:8080
+      proxyAuthMethod = basic
       ```
 
 1. Installare source Tree da questo sito
