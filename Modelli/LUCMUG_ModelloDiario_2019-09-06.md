@@ -1,11 +1,10 @@
 
 
-# PROGETTO | Diario di lavoro - dd.mm.yyyy
-##### Pinco Pallino
-### Canobbio, [DATE]
+# [NOME_PROGETTO] | Diario di lavoro
+##### [Nome Cognome]
+### [Luogo], [DATA]
 
 ## Lavori svolti
-Quello che faccio
 
 
 |Orario        |Lavoro svolto                 |
