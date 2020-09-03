@@ -3,7 +3,7 @@
 
 ## Modelli
 - [Documentazione](Modelli/DocumentazioneCompleta.md)
-- [Diario](Modelli/ModelloDiario.md)
+- [Diario](Modelli/LUCMUG_ModelloDiario_2019-09-06.md)
 
 
 ## Guide
